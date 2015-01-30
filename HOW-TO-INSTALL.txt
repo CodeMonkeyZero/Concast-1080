@@ -1,0 +1,43 @@
+﻿**************************************************************************************************
+INSTALLATION INSTRUCTIONS
+**************************************************************************************************
+1) 	MAKE SURE PseudoTV Live and KODI are NOT running.
+
+2) 	COPY THE CONTENTS of the "SKIN" folder into the root of your PseudoTV Live "custom" folder. 
+		THIS IS GENERALLY LOCATED HERE ON WINDOWS SYSTEMS. 
+		C:\Users\%user name%\AppData\Roaming\kodi\addons\script.pseudotv.live-master\resources\Skins\Custom
+
+3) 	Start KODI
+
+4) 	Go into the PseudoTV Live's settings and change the Skin PseudoTV Live uses to "Custom." The option
+	to change the Skin is the first item located on the "Visual" tab in the program settings.
+
+5) 	Start PseudoTV Live and enjoy the new Skin.
+
+**************************************************************************************************
+TO SWITCH BETWEEN THE CONCAST AND THE XFUNITY LOGO
+**************************************************************************************************
+A) Stop and exit PseudoTV Live.
+B) Go to your Skin directory. Inside the "media" folder you will find an image named epgmain.png and
+   an image named epgmainXXX.png. Rename epgmain.png to something like epgmainOLD.png and then rename
+   epgmainXXX.png to epgmain.png. PTVL will use whichever file is named epgmain.png. Switch them back
+   and forth as often as you like.
+
+**************************************************************************************************
+SHOW YOUR SUPPORT
+**************************************************************************************************
+CodeMonkeyZero, (Quality PTVL Skins) http://tinyurl.com/qdfv6bx
+Lunatixz, (PseudoTV Live Developer) http://tinyurl.com/lvs8ngb
+
+**************************************************************************************************
+IF YOU HAVE QUESTIONS or need general support using PseudoTV Live visit the support forums here. 
+http://forum.kodi.tv/showthread.php?tid=169032
+
+*** BE SURE TO READ THE VERY FIRST POST IN THE THREAD. ***
+IT CONTAINS DETAILED INSTRUCTIONS ON INSTALLING AND CONFIGURING PSEUDOTV LIVE.
+
+THE COMMUNITY IS VERY HELPFUL, but you are expected to help yourself or at least help them to help you.
+ASking silly questions that were clearly answered in the directions is severely frowned upon. 
+
+Good luck and enjoy,
+CodeMonkeyZero
