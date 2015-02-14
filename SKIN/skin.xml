@@ -1,11 +1,11 @@
 <skin>
   <defaultresolution>1080i</defaultresolution>
   <defaultresolutionwide>1080i</defaultresolutionwide>
-  <version>0.5.7</version>
+  <version>0.5.8E</version>
   <zoom>0</zoom>  
   <credits>
     <skinname>Concast 1080</skinname>
-    <name>Redkiller223,CodeMonkeyZero</name>
+    <name>Redkiller223,Lunatixz,CodeMonkeyZero</name>
 	<url>https://github.com/CodeMonkeyZero</url>
   </credits>
 </skin>
